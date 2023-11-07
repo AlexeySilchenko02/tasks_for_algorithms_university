@@ -1,0 +1,32 @@
+D:\C#\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe.config
+D:\C#\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe
+D:\C#\SimpleApp\SimpleApp\bin\Debug\SimpleApp.pdb
+D:\C#\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.AssemblyReference.cache
+D:\C#\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.SuggestedBindingRedirects.cache
+D:\C#\SimpleApp\SimpleApp\obj\Debug\MainWindow.g.cs
+D:\C#\SimpleApp\SimpleApp\obj\Debug\App.g.cs
+D:\C#\SimpleApp\SimpleApp\obj\Debug\SimpleApp_MarkupCompile.cache
+D:\C#\SimpleApp\SimpleApp\obj\Debug\SimpleApp_MarkupCompile.lref
+D:\C#\SimpleApp\SimpleApp\obj\Debug\MainWindow.baml
+D:\C#\SimpleApp\SimpleApp\obj\Debug\SimpleApp.g.resources
+D:\C#\SimpleApp\SimpleApp\obj\Debug\SimpleApp.Properties.Resources.resources
+D:\C#\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.GenerateResource.cache
+D:\C#\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.CoreCompileInputs.cache
+D:\C#\SimpleApp\SimpleApp\obj\Debug\SimpleApp.exe
+D:\C#\SimpleApp\SimpleApp\obj\Debug\SimpleApp.pdb
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\bin\Debug\SimpleApp.exe.config
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\bin\Debug\SimpleApp.exe
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\bin\Debug\SimpleApp.pdb
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\obj\Debug\SimpleApp.csproj.AssemblyReference.cache
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\obj\Debug\SimpleApp.csproj.SuggestedBindingRedirects.cache
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\obj\Debug\MainWindow.g.cs
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\obj\Debug\App.g.cs
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\obj\Debug\SimpleApp_MarkupCompile.cache
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\obj\Debug\SimpleApp_MarkupCompile.lref
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\obj\Debug\MainWindow.baml
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\obj\Debug\SimpleApp.g.resources
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\obj\Debug\SimpleApp.Properties.Resources.resources
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\obj\Debug\SimpleApp.csproj.GenerateResource.cache
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\obj\Debug\SimpleApp.csproj.CoreCompileInputs.cache
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\obj\Debug\SimpleApp.exe
+D:\Политех\5 семестр\Алгоритмы и програмирование\Zadanie3\SimpleApp\obj\Debug\SimpleApp.pdb
